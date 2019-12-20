@@ -1,0 +1,19 @@
+{
+  "name": "eslint-plugin-exports-order",
+  "version": "0.0.4",
+  "description": "Eslint plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonprod/eslint-plugin-exports-order.git"
+  },
+  "author": "simonprod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonprod/eslint-plugin-exports-order/issues"
+  },
+  "homepage": "https://github.com/simonprod/eslint-plugin-exports-order#readme"
+}
